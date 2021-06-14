@@ -5,10 +5,11 @@ import java.util.List;
 
 /**
  * 测试字符串转int方法，parseInt和valueOf
+ * 测试int型转String的三种方法，valueOf,toString和+""
  */
 public class Test2{
     public static void main(String[] args) {
-        List<String> list = new ArrayList();
+        List<String> list = new ArrayList();//泛型限制List为String
         list.add("qqyumidi");
         list.add("corn");
         String a = String.valueOf(100);
