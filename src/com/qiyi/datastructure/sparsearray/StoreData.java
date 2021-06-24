@@ -1,6 +1,5 @@
-package com.qiyi.datastructure;
+package com.qiyi.datastructure.sparsearray;
 import java.io.*;
-import java.nio.charset.StandardCharsets;
 
 public class StoreData {
     public static void main(String[] args) throws IOException {

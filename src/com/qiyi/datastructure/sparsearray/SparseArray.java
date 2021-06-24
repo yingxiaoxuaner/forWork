@@ -1,4 +1,4 @@
-package com.qiyi.datastructure;
+package com.qiyi.datastructure.sparsearray;
 
 import java.awt.*;
 import java.io.*;
